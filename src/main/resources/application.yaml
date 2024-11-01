@@ -1,0 +1,11 @@
+#<taxi>
+#  <rate>100</rate>
+#</taxi>
+
+taxi:
+  rate: 300
+
+car:
+  car-number1: ${CAR_NUMBER}
+  car-number2: K474CE178
+  car-number3: A001AA77
